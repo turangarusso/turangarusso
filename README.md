@@ -9,14 +9,15 @@
     askMeAbout: ["web dev", "tech", "app dev", "designer"],
     technologies: {
         desktop: {
-            microsoft: ["Certified"],
+            microsoft: ["ECDL Certified"],
+            google: ["IT Specialist Certified", "GCP Certified"],
         },
         mobileApp: {
             native: ["Apple Development"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        oS: ["Windows", "Linuk", "MacOS", "Android", "Ios", "Windows Serv"],
         databases: ["Oracle", "MySql", "sql"],
-        misc: ["Wordpress", "Microsoft Server", "uml", "php", "html"]
+        misc: ["Wordpress", "Visual Studio", "uml", "php", "html"]
     },
     currentFocus: "Apple Academy",
     funFact: "There are two ways to write error-free programs; only the third one works"
