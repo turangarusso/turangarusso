@@ -5,18 +5,18 @@
 
 ```const anmol = {
     pronouns: "He" | "Him",
-    code: ["C++", "Python", "Swift", "VisualBasic"],
-    askMeAbout: ["web dev", "tech", "app dev", "designer"],
+    code: ["C/C++", "Python", "Swift", "VisualBasic", "Assembly", "Pascal"],
+    askMeAbout: ["web dev", "tech", "app dev", "design"],
     technologies: {
         desktop: {
             microsoft: ["ECDL Certified"],
             google: ["IT Specialist Certified", "GCP Certified"],
         },
         mobileApp: {
-            native: ["Apple Development"]
+            native: ["Apple Foundation Program", "Apple Developer Academy"]
         },
         oS: ["Windows", "Linuk", "MacOS", "Android", "Ios", "Windows Serv"],
-        databases: ["Oracle", "MySql", "sql"],
+        databases: ["Oracle", "MySql", "Sql"],
         misc: ["Wordpress", "Visual Studio", "uml", "php", "html"]
     },
     currentFocus: "Apple Academy",
