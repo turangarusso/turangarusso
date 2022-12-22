@@ -6,7 +6,7 @@
 ```const anmol = {
     pronouns: "He" | "Him",
     code: ["C/C++", "Python", "Swift", "VisualBasic", "Assembly", "Pascal"],
-    askMeAbout: ["web dev", "tech", "app dev", "design"],
+    askMeAbout: ["web dev", "tech", "app dev", "design", "ethical hacking"],
     technologies: {
         desktop: {
             microsoft: ["ECDL Certified"],
@@ -19,6 +19,12 @@
         databases: ["Oracle", "MySql", "Sql"],
         misc: ["Wordpress", "Visual Studio", "uml", "php", "html"]
     },
+      ethicalHacking: {
+             ddos: ["Slow Loris", "ftp flood", "udp flood", "tcp flood", "Ufonet Botnet"],
+             endpointSecurity: ["Kaspersky Endpoint Security Pro", "Defender Endpoint"],
+             portScanner: ["Nmap", "Nessus"],
+             exploit: ["Metasploit", "Social Engineering"]
+      },
     currentFocus: "Apple Academy",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
