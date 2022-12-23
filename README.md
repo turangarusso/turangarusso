@@ -5,7 +5,7 @@
 
 ```const anmol = {
     pronouns: "He" | "Him",
-    code: ["C/C++", "Python", "Swift", "VisualBasic", "Assembly", "Pascal"],
+    code: ["C/C++", "Python", "Swift", "VisualBasic", "Assembly", "Lua", "Pascal"],
     askMeAbout: ["web dev", "tech", "app dev", "design", "ethical hacking"],
     technologies: {
         desktop: {
@@ -20,10 +20,13 @@
         misc: ["Wordpress", "Visual Studio", "uml", "php", "html"]
     },
       ethicalHacking: {
-             ddos: ["Slow Loris", "ftp flood", "udp flood", "tcp flood", "Ufonet Botnet"],
-             endpointSecurity: ["Kaspersky Endpoint Security Pro", "Defender Endpoint"],
-             portScanner: ["Nmap", "Nessus"],
-             exploit: ["Metasploit", "Social Engineering"]
+             ddos: ["Slow Loris", "ftp flood", "udp flood", "tcp flood", "ICMP flood", "SYN flood", "Ufonet Botnet"],
+             endpointSecurity: ["Kaspersky Endpoint Security Pro", "Defender Endpoint", "Cloudflare"],
+             portScanner: ["Nmap", "Nessus", "SuperScan"],
+             exploit: ["Metasploit", "Social Engineering"],
+             monitorTool: ["Netlimiter", "Wireshark", "Glasswire"]
+             wifi: ["Aircrack-ng"]
+             misc: ["WinSCP", "Putty"]
       },
     currentFocus: "Apple Academy",
     funFact: "There are two ways to write error-free programs; only the third one works"
