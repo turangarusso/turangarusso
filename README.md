@@ -15,7 +15,7 @@
         mobileApp: {
             native: ["Apple Foundation Program", "Apple Developer Academy"]
         },
-        oS: ["Windows", "Linuk", "MacOS", "Android", "Ios", "Windows Server"],
+        oS: ["Windows", "Linuk", "MacOS", "Android", "ios", "Windows Server"],
         databases: ["Oracle", "MySql", "Sql"],
         misc: ["Wordpress", "Visual Studio", "uml", "php", "html"]
     },
