@@ -39,10 +39,13 @@
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
 
+#
+
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=turangarusso&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="turangarusso" /></p>
+
+#
 
 ### 🛠 &nbsp;Tech Stack
 
