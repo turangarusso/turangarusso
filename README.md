@@ -5,22 +5,22 @@
 
 ```const anmol = {
     pronouns: "He" | "Him",
-    code: ["C/C++", "Python", "Swift", "VisualBasic", "Assembly", "Lua", "Pascal"],
-    askMeAbout: ["web dev", "tech", "app dev", "design", "ethical hacking"],
+    code: ["C/C++", "Python", "Swift", ".NET", "Assembly", "Lua", "Pascal"],
+    askMeAbout: ["web dev", "tech", "app dev", "design", "ethical hacking", "gaming"],
     technologies: {
         desktop: {
-            microsoft: ["ECDL Certified"],
-            google: ["IT Specialist Certified", "GCP Certified"],
+            microsoft: ["ECDL FULL Certified"],
+            google: ["IT Specialist Certified", "GCP Certified", "Analytics Pro"],
         },
         mobileApp: {
             native: ["Apple Foundation Program", "Apple Developer Academy"]
         },
         oS: ["Windows", "Linuk", "MacOS", "Android", "iOS", "Windows Server"],
-        databases: ["Oracle", "MySql", "Sql"],
-        misc: ["Wordpress", "Visual Studio", "uml", "php", "html"]
+        databases: ["Oracle", "MySql", "SQL"],
+        misc: ["Wordpress", "Visual Studio", "UML", "PHP", "HTML", "CSS"]
     },
       ethicalHacking: {
-             ddos: ["Slow Loris", "ftp flood", "udp flood", "tcp flood", "ICMP flood", "SYN flood", "Ufonet Botnet"],
+             ddos: ["Slow Loris", "FTP flood", "UDP flood", "TCP flood", "ICMP flood", "SYN flood", "Ufonet Botnet"],
              endpointSecurity: ["Kaspersky Endpoint Security Pro", "Defender Endpoint", "Cloudflare"],
              portScanner: ["Nmap", "Nessus", "SuperScan"],
              exploit: ["Metasploit", "Social Engineering"],
