@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Giovanni</h2>
+<h2>Hey there! I'm Giovanni</h2>
 
 <!-- ## Hey there! I'm Giovanni -->
 ### 👨🏻‍💻 &nbsp;About Me
@@ -37,7 +37,7 @@
 🎓 &nbsp;I'm currently studying Computer Science at the University of Naples FII.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
+💬 &nbsp;Feel free to reach out to me for some interesting discussion.
 
 #
 
