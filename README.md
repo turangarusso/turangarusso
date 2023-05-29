@@ -3,7 +3,8 @@
 <!-- ## Hey there! I'm Giovanni -->
 ### 👨🏻‍💻 &nbsp;About Me
 
-```const anmol = {
+```swift
+const anmol = {
     pronouns: "He" | "Him",
     code: ["C/C++", "Python", "Swift", ".NET", "Assembly", "Lua", "Pascal"],
     askMeAbout: ["web dev", "tech", "app dev", "design", "ethical hacking", "gaming"],
