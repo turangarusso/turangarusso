@@ -22,7 +22,7 @@ const anmol = {
         misc: ["Wordpress", "Visual Studio", "UML", "PHP", "HTML", "CSS"]
     },
       ethicalHacking: {
-             ddos: ["Slow Loris", "FTP flood", "UDP flood", "TCP flood", "ICMP flood", "SYN flood", "Ufonet Botnet"],
+             dos/ddos: ["Slow Loris", "FTP flood", "UDP flood", "TCP flood", "ICMP flood", "SYN flood", "Ufonet Botnet"],
              endpointSecurity: ["Kaspersky Endpoint Security Pro", "Defender Endpoint", "Cloudflare"],
              portScanner: ["Nmap", "Nessus", "SuperScan"],
              exploit: ["Metasploit", "Social Engineering"],
