@@ -12,6 +12,7 @@ const anmol = {
         desktop: {
             microsoft: ["ECDL FULL Certified"],
             google: ["IT Specialist Certified", "GCP Certified", "Analytics Pro"],
+            apple: ["Apple Developer Academy"],
         },
         mobileApp: {
             native: ["Apple Foundation Program", "Apple Developer Academy"]
