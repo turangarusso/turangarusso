@@ -16,7 +16,7 @@ const anmol = {
         mobileApp: {
             native: ["Apple Foundation Program", "Apple Developer Academy"]
         },
-        oS: ["Windows", "Linuk", "MacOS", "Android", "iOS", "Windows Server"],
+        oS: ["Windows", "Linux", "MacOS", "Android", "iOS", "Windows Server"],
         databases: ["Oracle", "MySql", "SQL"],
         misc: ["Wordpress", "Visual Studio", "UML", "PHP", "HTML", "CSS"]
     },
